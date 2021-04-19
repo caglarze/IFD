@@ -11,3 +11,8 @@
 <h2 id="task-001">Task 02</h2>
 
 <p><a href="https://github.com/caglarze/IFD/blob/main/Interaktive-Datenvisualisierung.pdf" target="_blank">Interaktive Datenvisualisierung</a></p>
+
+<h2 id="task-001">Task 03</h2>
+
+<p><a href="https://github.com/caglarze/IFD/blob/main/Dashboard.pdf" 
+target="_blank">Low-Fid Prototype</a></p>
