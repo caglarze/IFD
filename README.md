@@ -23,6 +23,11 @@ PW: caglarze
 <p><a href="https://github.com/caglarze/IFD/blob/main/Screens.pdf" target="_blank">Screens</a></p>
 
 
+<h2 id="task-001">Task 07</h2>
+PW: caglarze 
+<p><a href="https://github.com/caglarze/IFD/blob/main/Testing.pdf" target="_blank">Test and Evaluate</a></p>
+
+
 
 
 
